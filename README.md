@@ -1,16 +1,64 @@
-# intagram_clone
+# Instagram Clone App
 
-A new Flutter project.
+Welcome to the Instagram Clone App repository! This app is designed to replicate the core features of the popular social media platform Instagram. Users can interact with the app by registering, posting images/videos, liking, commenting, following other users, sending messages, and more. The app utilizes Firebase for backend services and Provider for state management.
 
-## Getting Started
+![App Screenshot](Assets/Images/instaIcon.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Authentication**: Users can register and log in securely using Firebase authentication.
+- **Post Media and Captions**: Users can post images or videos along with captions.
+- **Interaction**: Users can like, save, and comment on posts.
+- **Search Users**: Search for other users based on their usernames.
+- **Follow/Unfollow**: Follow and unfollow other users to stay connected.
+- **Home Feed**: View posts from users you are following, sorted by date.
+- **Stories**: Users can post and view stories from users they follow.
+- **Direct Messaging**: Send and receive messages with other users in real time.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+
+- Flutter: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- Firebase: A comprehensive platform that provides various backend services, including authentication, database, storage, and more.
+- Provider: A state management solution that helps manage and update app state efficiently.
+- Other Flutter packages:
+  [ cloud_firestore,
+  firebase_auth,
+  firebase_messaging,
+  firebase_ui_auth,
+  firebase_storage,
+
+  provider,
+  intl,
+  image_picker,
+  uuid,
+  video_player,
+  flutter_instagram_storyboard,
+  animated_splash_screen]
+  
+
+## Installation
+
+1. Clone this repository: `git clone https://github.com/your-username/instagram-clone.git`
+2. Navigate to the project directory: `cd instagram-clone`
+3. Install dependencies: `flutter pub get`
+4. Set up Firebase (Add New Project To Firebase): [https://console.firebase.google.com/u/0/]
+5. Go To "lib/Utils/Constants.dart " Edit it 
+6. Run the app: `flutter run`
+
+## App Demo
+![App Demo](Screenshots/whatsapp-video-2023-08-20-a-175933_XKl6DyBf.gif)
+
+## Screenshots
+
+![Screenshot 1](Screenshots/Screenshot_1692551140.png)
+![Screenshot 2](Screenshots/Screenshot_1692551155.png)
+![Screenshot 3](Screenshots/Screenshot_1692551284.png)
+
+
+
+## Contact
+
+For any inquiries, please contact [esmahiayoub08@gmail.com].
+
+Happy coding!
