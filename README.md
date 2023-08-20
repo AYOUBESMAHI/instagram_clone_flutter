@@ -47,13 +47,16 @@ Welcome to the Instagram Clone App repository! This app is designed to replicate
 6. Run the app: `flutter run`
 
 ## App Demo
-![App Demo](Screenshots/whatsapp-video-2023-08-20-a-175933_XKl6DyBf.gif)
+<img src="Screenshots/whatsapp-video-2023-08-20-a-175933_XKl6DyBf.gif" alt="App Demo" height="500" />
 
 ## Screenshots
 
-![Screenshot 1](Screenshots/Screenshot_1692551140.png)
-![Screenshot 2](Screenshots/Screenshot_1692551155.png)
-![Screenshot 3](Screenshots/Screenshot_1692551284.png)
+<div style="display: flex; justify-content: center;">
+  <img src="Screenshots/Screenshot_1692551140.png" alt="Screenshot 1" width="300" style="margin-right: 20px;" />
+  <img src="Screenshots/Screenshot_1692551155.png" alt="Screenshot 2" width="300" style="margin-right: 20px;" />
+  <img src="Screenshots/Screenshot_1692551284.png" alt="Screenshot 3" width="300" />
+</div>
+
 
 
 
