@@ -47,7 +47,7 @@ Welcome to the Instagram Clone App repository! This app is designed to replicate
 6. Run the app: `flutter run`
 
 ## App Demo
-(loading...)
+(please wait loading...)
 <img src="Screenshots/whatsapp-video-2023-08-20-a-175933_XKl6DyBf.gif" alt="App Demo" height="500" />
 
 ## Screenshots
